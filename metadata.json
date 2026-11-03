@@ -1,0 +1,6 @@
+{
+  "name": "CSIR-UGC-DBT JRF-NET Prep Studio",
+  "description": "Authentic CBT mock examination system, AI psychometric analytics, Gemini question generator, and performance coach for CSIR-UGC-DBT JRF-NET Life Sciences & Biotechnology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
